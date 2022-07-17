@@ -1,16 +1,12 @@
 ## 惠普光影精灵6 Max 黑苹果
-
 [![Release](https://img.shields.io/github/v/release/zzzyy678/-Pavilion--16-a0001tx-Hackintosh?label=Release)](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/releases)
 
 <img src="img/Machine.png" width="400" height="400"/> 
 
-- macOS10.15 Catalina：`OpenCore v0.6.8`
-  
+- macOS10.15 Catalina：`OpenCore v0.6.8`  
   - [下载EFI](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/releases/tag/v0.6.8-oc)
-- macOS12 Monterey：`OpenCore v0.8.2`
-  
+- macOS12 Monterey：`OpenCore v0.8.2`  
   - [下载EFI](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/releases/tag/v0.8.2-oc)
-  - 
 ### 安装前准备：解锁CFG-Lock 
 启动CFG-Lock.zip里的EFI，输入以下命令解锁CFG-Lock
 ```shell
