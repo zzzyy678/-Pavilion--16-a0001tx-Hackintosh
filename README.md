@@ -12,6 +12,13 @@
 ```shell
 setup_var 0x3e 0x01
 ```
+### 建议开启HIDPI
+在终端输入以下命令回车
+```shell
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
+```
+或者下载[one-key-hidpi](https://github.com/xzhih/one-key-hidpi/archive/refs/heads/master.zip) 双击`hidpi.command`运行
+
 -----
 ### 电脑配置
 
