@@ -8,7 +8,7 @@
 - macOS12 Monterey：`OpenCore v0.8.2`  
   - [下载EFI](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/releases/download/v0.8.2-oc/OCv0.8.2Monterey.zip)
 ### 安装前准备：解锁CFG-Lock 
-启动CFG-Lock.zip里的EFI，输入以下命令解锁CFG-Lock
+启动[CFG-Lock.zip](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/raw/main/CFG-Unlock.zip)里的EFI，输入以下命令解锁CFG-Lock
 ```shell
 setup_var 0x3e 0x01
 ```
