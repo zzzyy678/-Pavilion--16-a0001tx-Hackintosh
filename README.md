@@ -4,9 +4,9 @@
 <img src="img/Machine.png" width="400" height="400"/> 
 
 - macOS10.15 Catalina：`OpenCore v0.6.8`  
-  - [下载EFI](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/releases/tag/v0.6.8-oc)
+  - [下载EFI](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/releases/download/v0.6.8-oc/OCv0.6.8Catalina.zip)
 - macOS12 Monterey：`OpenCore v0.8.2`  
-  - [下载EFI](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/releases/tag/v0.8.2-oc)
+  - [下载EFI](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/releases/download/v0.6.8-oc/OCv0.6.8Catalina.zip)
 ### 安装前准备：解锁CFG-Lock 
 启动CFG-Lock.zip里的EFI，输入以下命令解锁CFG-Lock
 ```shell
