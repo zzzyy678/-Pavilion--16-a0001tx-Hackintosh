@@ -1,3 +1,4 @@
+**中文** | [English](/README_EN.md)
 ## 惠普光影精灵6 Max 黑苹果
 [![Release](https://img.shields.io/github/v/release/zzzyy678/-Pavilion--16-a0001tx-Hackintosh?label=Release)](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/releases)
 
