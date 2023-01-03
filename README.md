@@ -32,7 +32,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/mast
 | 硬盘 | WDC Nvme SN720 512GB | 识别成PCIE硬盘，外接SATA正常 |
 | 核显 | Intel UHD Graphics 630 | 核显硬解正常，已开启平滑亮度调节 |
 | 独显 | NVIDIA Geforce RTX2060 MAX-Q | 无解，已屏蔽 |
-| 声卡 | 瑞昱 ALC245 | 智音麦克风无解；注入layout-id：11 |
+| 声卡 | 瑞昱 ALC245 | 智音麦克风无解；注入layout-id：11或13 |
 | 无线网卡 | Intel AX201 | 建议更换博通 BCM94352z |
 | 有线网卡 | 瑞昱 RTL8111 | 内建驱动正常 |
 | 触控板 | ELAN072E | 已定制驱动，多指正常 |
