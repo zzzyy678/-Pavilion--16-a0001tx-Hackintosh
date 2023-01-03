@@ -30,7 +30,7 @@ or [one-key-hidpi](https://github.com/xzhih/one-key-hidpi/archive/refs/heads/mas
 | Memory | Samsung DDR4 16GB 2933MHz  |
 | Hard Disk | WDC Nvme SN720 512GB |
 | iGPU | Intel UHD Graphics 630 |
-| eGPU | NVIDIA Geforce RTX2060 MAX-Q |
+| eGPU (do not work) | NVIDIA Geforce RTX2060 MAX-Q |
 | Sound Card | Realtek ALC245 |
 | Wireless Card | Intel AX201 |
 | Network Interface Card | Realtek RTL8111 |
