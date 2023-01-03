@@ -1,4 +1,4 @@
-**English** | [中文](/README.md)
+**English** | [中文](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh)
 ## HP Pavilion--16-a0001tx-Hackintosh
 [![Release](https://img.shields.io/github/v/release/zzzyy678/-Pavilion--16-a0001tx-Hackintosh?label=Release)](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/releases)
 
