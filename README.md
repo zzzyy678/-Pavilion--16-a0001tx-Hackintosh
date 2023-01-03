@@ -25,7 +25,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/mast
 
 | 硬件      | 详细信息                                  | 备注 |
 | -------- | ---------------------------------------- | --- |
-| 电脑型号 | HP Pavilion-16-a0001tx | 完成度95% |
+| 电脑型号 | HP Pavilion-16-a0001tx | 完成度96% |
 | 处理器 | Intel Core i7-10750H | 已驱动变频 |
 | 内存 | 三星 DDR4 16GB 2933MHz  | 识别正常 |
 | 硬盘 | WDC Nvme SN720 512GB | 识别成PCIE硬盘，外接SATA正常 |
