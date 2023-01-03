@@ -6,7 +6,7 @@
 
 - macOS10.15 Catalina：`OpenCore v0.6.8`  
   - [Download EFI](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/releases/download/v0.6.8-oc/OCv0.6.8Catalina.zip)
-- macOS12 Monterey&macOS13 Ventura：`OpenCore v0.8.8`  
+- macOS12 Monterey & macOS13 Ventura：`OpenCore v0.8.8`  
   - [Download EFI](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/releases/download/v0.8.0-oc/OC.v0.8.8.zip)
 ### Preparation before installing macOS：CFG-Unlock & Set DVMT to 64MB
 Boot on [CFG-Lock.zip](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/raw/main/CFG-Unlock.zip) `EFI/BOOT/BOOTX64.EFI`，enter the following two commands：
