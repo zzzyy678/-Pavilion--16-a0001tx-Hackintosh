@@ -1,30 +1,29 @@
 **English** | [中文](/README.md)
-## 惠普光影精灵6 Max 黑苹果
+## HP Pavilion--16-a0001tx-Hackintosh
 [![Release](https://img.shields.io/github/v/release/zzzyy678/-Pavilion--16-a0001tx-Hackintosh?label=Release)](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/releases)
 
 <img src="img/Machine.png" width="400" height="400"/> 
 
 - macOS10.15 Catalina：`OpenCore v0.6.8`  
-  - [下载EFI](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/releases/download/v0.6.8-oc/OCv0.6.8Catalina.zip)
+  - [Download EFI](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/releases/download/v0.6.8-oc/OCv0.6.8Catalina.zip)
 - macOS12 Monterey&macOS13 Ventura：`OpenCore v0.8.8`  
-  - [下载EFI](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/releases/download/v0.8.0-oc/OC.v0.8.8.zip)
-### 安装前准备：解锁CFG-Lock、设置DVMT为64MB 
-启动[CFG-Lock.zip](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/raw/main/CFG-Unlock.zip)里的EFI，输入以下两条命令：
+  - [Download EFI](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/releases/download/v0.8.0-oc/OC.v0.8.8.zip)
+### Preparation before installing macOS：CFG-Unlock & Set DVMT to 64MB
+Boot on[CFG-Lock.zip](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/raw/main/CFG-Unlock.zip)BOOTX64.EFI，enter the following two commands：
 ```shell
 setup_var 0x3e 0x01
 setup_var 0xf5 0x2
 ```
-### 建议开启HIDPI
-在终端输入以下命令回车
+### Open HIDPI
 ```shell
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
 ```
-或者下载[one-key-hidpi](https://github.com/xzhih/one-key-hidpi/archive/refs/heads/master.zip) 双击`hidpi.command`运行
+Or download [one-key-hidpi](https://github.com/xzhih/one-key-hidpi/archive/refs/heads/master.zip) running`hidpi.command`
 
 -----
-### 电脑配置
+### Configuration
 
-| 硬件      | 详细信息                                  | 备注 |
+| Specifications      | Detail                                 | PS |
 | -------- | ---------------------------------------- | --- |
 | 电脑型号 | HP Pavilion-16-a0001tx | 完成度96% |
 | 处理器 | Intel Core i7-10750H | 已驱动变频 |
