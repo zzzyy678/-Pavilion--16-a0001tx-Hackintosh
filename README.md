@@ -6,7 +6,7 @@
 
 - macOS10.15 Catalina：`OpenCore v0.6.8`  
   - [下载EFI](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/releases/download/v0.6.8-oc/OCv0.6.8Catalina.zip)
-- macOS12 Monterey&macOS13 Ventura：`OpenCore v0.8.8`  
+- macOS12 Monterey & macOS13 Ventura：`OpenCore v0.8.8`  
   - [下载EFI](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/releases/download/v0.8.0-oc/OC.v0.8.8.zip)
 ### 安装前准备：解锁CFG-Lock、设置DVMT为64MB 
 启动[CFG-Lock.zip](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/raw/main/CFG-Unlock.zip)里的EFI，输入以下两条命令：
