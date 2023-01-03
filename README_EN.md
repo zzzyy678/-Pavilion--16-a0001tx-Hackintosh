@@ -9,7 +9,7 @@
 - macOS12 Monterey&macOS13 Ventura：`OpenCore v0.8.8`  
   - [Download EFI](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/releases/download/v0.8.0-oc/OC.v0.8.8.zip)
 ### Preparation before installing macOS：CFG-Unlock & Set DVMT to 64MB
-Boot on[CFG-Lock.zip](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/raw/main/CFG-Unlock.zip)BOOTX64.EFI，enter the following two commands：
+Boot on [CFG-Lock.zip](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/raw/main/CFG-Unlock.zip) `EFI/BOOT/BOOTX64.EFI`，enter the following two commands：
 ```shell
 setup_var 0x3e 0x01
 setup_var 0xf5 0x2
