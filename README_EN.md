@@ -31,8 +31,8 @@ or [one-key-hidpi](https://github.com/xzhih/one-key-hidpi/archive/refs/heads/mas
 | Hard Disk | WDC Nvme SN720 512GB |
 | iGPU | Intel UHD Graphics 630 |
 | eGPU (do not work) | NVIDIA Geforce RTX2060 MAX-Q |
-| Sound Card | Realtek ALC245 |
-| Wireless Card | Intel AX201 |
+| Sound Card | Realtek ALC245 (layout-id=11 or 13) |
+| Wireless Card | Intel AX201 (Airport not work,It is better to replace dw1560) |
 | Network Interface Card | Realtek RTL8111 |
 | Trackpad | ELAN072E |
 | Sensor| Temperature sensor, Fan speed sensor |
