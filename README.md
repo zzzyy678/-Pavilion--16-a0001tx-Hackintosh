@@ -2,7 +2,7 @@
 ## 惠普光影精灵6 Max 黑苹果
 [![Release](https://img.shields.io/github/v/release/zzzyy678/-Pavilion--16-a0001tx-Hackintosh?label=Release)](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/releases)
 
-<img src="img/Machine.png" width="400" height="400"/> 
+<img src="Machine.PNG" width="400" height="400"/> 
 
 - macOS10.15 Catalina：`OpenCore v0.6.8`  
   - [下载EFI](https://github.com/zzzyy678/-Pavilion--16-a0001tx-Hackintosh/releases/download/v0.6.8-oc/OCv0.6.8Catalina.zip)
