@@ -29,7 +29,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/mast
 | 电脑型号 | HP Pavilion-16-a0001tx | 完成度96% |
 | 处理器 | Intel Core i7-10750H | 已驱动变频 |
 | 内存 | 三星 DDR4 16GB 2933MHz  | 识别正常 |
-| 硬盘 | WDC Nvme SN720 512GB | 已开启TRIM，外接SATA正常 |
+| 硬盘 | WDC Nvme SN720 512GB | 已开启TRIM，加装SATA识别正常 |
 | 核显 | Intel UHD Graphics 630 | 核显硬解正常，已开启平滑亮度调节 |
 | 独显 | NVIDIA Geforce RTX2060 MAX-Q | 无解，已屏蔽 |
 | 声卡 | 瑞昱 ALC245 | 智音麦克风无解；注入layout-id：11|
